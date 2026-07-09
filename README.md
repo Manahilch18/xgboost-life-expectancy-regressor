@@ -37,8 +37,8 @@ The dataset (`Life_Expectancy_Data.csv`) contains 21 columns, including:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<Manahilch18>/<xgboost-life-expectancy-regressor>.git
+cd <xgboost-life-expectancy-regressor>
 pip install -r requirements.txt
 ```
 
